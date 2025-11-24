@@ -1,5 +1,5 @@
 name: prompt_handler
-description: A minimal Flutter test app with flutter_bloc and Navigator 2.0
+description: A app for generating prompt result, with flutter_bloc and navigation
 version: 1.0.0+1
 
 environment:
